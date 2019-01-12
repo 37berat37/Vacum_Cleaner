@@ -1,3 +1,4 @@
+// Made By Berat Dikmen
 const int trigger_pin_sol= 3; 
 const int echo_pin_sol=4;
 const int trigger_pin_sag=7;
@@ -9,7 +10,7 @@ const int echo_pin_on=6;
 int sol_motor=0;
 int sag_motor=1;
 
-const int sol_i = 9; // motor sürücü pinleri
+const int sol_i = 9; // motor sürücü pinleri 
 const int sol_g = 10;
 const int sag_i = 11;
 const int sag_g = 12;
